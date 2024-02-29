@@ -1,5 +1,5 @@
 # 💫 About Me:
-😀 I am a mobile developer with expterise in native android app development.<br>👩‍💻 I am very passioante about coding and also love love love it.<br>
+😀 I am a software developer with expterise in web & mobile development.<br>👩‍💻 I am very passioante about coding and also love love love it.<br>
 
 
 # 💻 Tech Stack:
