@@ -1,27 +1,5 @@
 # 💫 About Me:
-Hi, Hope you are doing well.
-
-I am an experienced Python Developer with Expertise in Django & Flask, DevOps, OpenAI, and Machine Learning
-
-Are you looking for a skilled Python developer who can create robust web applications using Django & Flask? Do you need someone proficient in natural language processing (NLP) and machine learning (ML) to enhance your projects? Look no further!
-
-Python Development: I specialize in building scalable and efficient Python applications. Whether it’s web development, data analysis, or automation scripts, I’ve got you covered.
-
-Django & Flask: As a Django & Flask enthusiast, I’ve developed RESTful APIs, microservices, and web applications using these frameworks. Let’s create elegant and efficient solutions together.
-
-OpenAI: I’m passionate about artificial intelligence and have hands-on experience with OpenAI’s powerful tools. Let’s explore the possibilities of language models, chatbots, and more.
-
-Machine Learning: From data preprocessing to model deployment, I’ve worked on ML projects across various domains. Let’s turn your data into actionable insights.
-
-LLM (Low-Level Magic): I enjoy diving into the intricacies of Python and optimizing code for performance. If you need someone who understands the magic behind the scenes, I’m your developer.
-
-NLP: Natural language processing fascinates me. Let’s build applications that understand and generate human language.
-
-Automation: Efficiency matters! I can automate repetitive tasks, streamline workflows, and improve productivity using Python.
-
-DevOps: I believe in seamless deployment and continuous integration. Docker, Kubernetes, CI/CD pipelines—I’ve got the DevOps skills to keep your projects running smoothly.
-
-Let’s collaborate and create something exceptional! Feel free to reach out—I’m ready to tackle your next project.
+I am Python Developer & DevOps Engineer & AI Expert.
 
 
 # 💻 Tech Stack:
