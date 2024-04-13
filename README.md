@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Hope you are doing well.<br><br>I am an experienced <b>Python Developer</b> with Expertise in Django & Flask, DevOps, OpenAI, and Machine Learning<br><br>Are you looking for a skilled Python developer who can create robust web applications using Django & Flask? Do you need someone proficient in natural language processing (NLP) and machine learning (ML) to enhance your projects? Look no further!<br><br>Let’s collaborate and create something exceptional! Feel free to reach out—I’m ready to tackle your next project.
+👋Hi, Hope you are doing well.<br><br>I am an experienced <b>Python Developer</b> with Expertise in <b>Django & Flask</b>, <b>DevOps</b>, <b>OpenAI</b>, and <b>Machine Learning</b><br><br>Are you looking for a skilled Python developer who can create robust web applications using Django & Flask? Do you need someone proficient in natural language processing (NLP) and machine learning (ML) to enhance your projects? Look no further!<br><br>Let’s collaborate and create something exceptional! Feel free to reach out—I’m ready to tackle your next project.
 
 
 # 💻 Tech Stack:
