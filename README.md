@@ -7,6 +7,4 @@ Hi, Hope you are doing well.<br><br>I am an experienced Python Developer with Ex
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhorse2313&show_icons=true&locale=en&layout=compact" alt="blackhorse2313" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhorse2313&show_icons=true&locale=en" alt="blackhorse2313" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhorse2313&" alt="blackhorse2313" /></p>
