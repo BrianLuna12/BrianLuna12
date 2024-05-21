@@ -1,4 +1,4 @@
-![image](https://github.com/blackhorse2313/blackhorse2313/assets/122101279/b19a413c-eea5-41c5-bdc2-557c2a08a43a)# 💫 About Me:
+💫 About Me:
 👋Hi, Hope you are doing well.<br><br>I am an experienced <b>Web Developer</b> with Expertise in <b>AI industry</b> and <b>DevOps engineering</b>. Are you looking for a skilled Web developer who can create robust web applications? Do you need someone proficient in AI or DevOps to enhance your projects? Look no further!<br><br>Let’s collaborate and create something exceptional! Feel free to reach out—I’m ready to tackle your next project.
 
 
