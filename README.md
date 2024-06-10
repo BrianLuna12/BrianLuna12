@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Passionate313&theme=" alt="Passionate313" /></a> </p>
 
-- 🌱 I’m currently learning **React, Vue, Django, FastAPI**
+- 🌱 I’m proficient in **Web Development using Python / JavaScript**
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, OCR, STT, TTS, Whisper**
 - 📫 How to reach me **breadheaddev313@gmail.com**
 - ⚡ Fun fact **Cooking, Football**
