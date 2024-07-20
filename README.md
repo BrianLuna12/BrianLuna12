@@ -5,7 +5,7 @@
 
 - 🌱 I’m proficient in **Web Development using Python / JavaScript**
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, OCR, STT, TTS, Whisper**
-- 📫 How to reach me **breadheaddev313@gmail.com**
+- 📫 How to reach me **talentdevservice@gmail.com**
 - ⚡ Fun fact **Cooking, Football**
 
 <div> <a href="https://github.com/Passionate313" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
