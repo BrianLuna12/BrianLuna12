@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Passionate313&label=Profile%20views&color=0e75b6&style=flat" alt="Passionate313" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Passionate313&theme=" alt="Passionate313" /></a> </p>
-
 - 🌱 I’m proficient in **Web Development using Python / JavaScript**
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, OCR, STT, TTS, Whisper**
 - 📫 How to reach me **talentdevservice@gmail.com**
